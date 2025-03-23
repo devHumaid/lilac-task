@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:provider/provider.dart';
-import 'package:task/screens/chat_screen.dart';
 import 'package:task/custom_appbar.dart';
 import 'package:task/screens/messages_screen.dart';
 import 'package:task/provider/main_provider.dart';
